@@ -5,5 +5,8 @@
 
 [2) Input/print: Sum of three numbers](Day002.md)
 ```Write a program that takes three numbers and prints their sum. Every number is given on a separate line.```
+[3) Input/print: Area of right triangle](Day003.md)
+
+```Write a program that reads the length of the base and the height of a right-angled triangle and prints the area. Every number is given on a separate line.```
 
 
