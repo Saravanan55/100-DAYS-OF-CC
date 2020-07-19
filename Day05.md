@@ -6,9 +6,16 @@
 Example input
 6
 50
-```
-```
+
 Example output
 8
 2
+```
+
+```
+n=int(input())
+k=int(input())   #k->apple
+print(k // n)   
+print(k % n) 
+
 ```
