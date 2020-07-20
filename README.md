@@ -40,6 +40,26 @@
 
 ```Given an integer, print "odd" if it's odd and print "even" otherwise.```
 
+[11) If/else: Minimum of three numbers](Day11.md)
+
+```Given three integers, print the least of them.```
+
+[12) If/else: Days in month](Day12.md)
+
+```Given a month - an integer from 1 to 12, print the number of days in it in the year 2017.```
+
+[13) If/else: Leap year](Day13.md)
+
+```Given the year number. You need to check if this year is a leap year. If it is, print LEAP, otherwise print COMMON.```
+
+[14) Jugs for Three](Day14.md)
+
+```Write a program that receives a number on the input.If the number is a multiple of 3, it prints "Jugs". Otherwise, it prints the number.```
+
+[15) Mugs for Five](Day15.md)
+
+```Write a program that receives a number on the input.If the number is a multiple of 3, it prints "Jugs". If the number is a multiple of 5, it prints "Mugs".If the number is a multiple of both 3 and 5, it prints "JugsMugs".Otherwise, it prints the number. ```
+
 
 
 
